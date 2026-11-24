@@ -1,0 +1,6 @@
+{
+  "name": "RO 倖存者 自動選技與構築輔助中控台",
+  "description": "Midgard Survivors (RO倖存者) 純本地規則自動選卡、第四招放逐、神祇鎖定、計時暫停提醒、AI 智能圖鑑與走位輔助腳本統整中控台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
